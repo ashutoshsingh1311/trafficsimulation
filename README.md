@@ -22,16 +22,6 @@
 * Vehicles such as cars, bikes, buses, and trucks are generated, and their movement is controlled according to the signals and the vehicles around them. 
 * This simulation can be further used for data analysis or to visualize AI or ML applications. 
 
-
-------------------------------------------
-### Demo
-
-The video below shows the final output of the simulation.
-
-<p align="center">
-    <img src="./Demo.gif">
-</p>
-
 ------------------------------------------
 ### Prerequisites
 

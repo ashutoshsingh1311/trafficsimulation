@@ -48,7 +48,7 @@ The video below shows the final output of the simulation.
   * Step II: Install the required packages
 ```sh
       # On the terminal, move into Modern-Traffic-Simulation directory
-      $ cd Basic-Traffic-Intersection-Simulation
+      $ cd Modern-Traffic-Simulation
       $ pip install pygame
 ```
 * Step III: Run the code

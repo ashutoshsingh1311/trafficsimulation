@@ -3,7 +3,7 @@
  <img height=350px src="./simulation-output.png" alt="Simulation output">
 </p>
 
-<h1 align="center">Basic Traffic Simulation </h1>
+<h1 align="center">Modern Traffic Simulation </h1>
 
 <div align="center">
 
@@ -47,7 +47,7 @@ The video below shows the final output of the simulation.
 ```
   * Step II: Install the required packages
 ```sh
-      # On the terminal, move into Basic-Traffic-Intersection-Simulation directory
+      # On the terminal, move into Modern-Traffic-Simulation directory
       $ cd Basic-Traffic-Intersection-Simulation
       $ pip install pygame
 ```

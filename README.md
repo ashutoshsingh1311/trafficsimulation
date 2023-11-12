@@ -3,7 +3,7 @@
  <img height=350px src="./simulation-output.png" alt="Simulation output">
 </p>
 
-<h1 align="center">Modern Traffic Simulation </h1>
+
 
 <div align="center">
 

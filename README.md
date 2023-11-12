@@ -44,9 +44,17 @@
 ```sh
       # To run simulation
       $ python simulation.py
+```
 ### Author
 
 ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
 
-------------------------------------------
+## Contact and Support
+For any issues or inquiries, feel free to contact us:
+
+- **Instagram:** [ashtoshhh](https://www.instagram.com/ashtoshhh/)
+- **LinkedIn:** [Ashutosh Singh](https://www.linkedin.com/in/ashutosh-singh-16a5b4251/)
+- **Email:** ashutosharena7@gmail.com
+
+
 

@@ -1,4 +1,4 @@
-# trafficsimulation
+# Modern Traffic Simulation System
 <p align="center">
  <img height=350px src="./simulation-output.png" alt="Simulation output">
 </p>

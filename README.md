@@ -8,7 +8,8 @@
 <div align="center">
 
 [![Python version](https://img.shields.io/badge/python-3.1+-blue.svg)](https://www.python.org/downloads/)
-[![Pygame](https://img.shields.io/badge/Pygame-1.9.7-blue.svg)](https://www.pygame.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.5.2-blue.svg)](https://www.pygame.org/)
+
 
 
 

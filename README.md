@@ -48,10 +48,12 @@
       # To run simulation
       $ python simulation.py
 ```
+------------------------------------------
 ### Author 👤
 
 ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
 
+------------------------------------------
 ### Contact and Support 📬
 For any issues or inquiries, feel free to contact us:
 

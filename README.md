@@ -8,7 +8,8 @@
 <div align="center">
 
 [![Python version](https://img.shields.io/badge/python-3.1+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Pygame](https://img.shields.io/badge/Pygame-blue.svg)](https://www.pygame.org/)
+
 
 <h4>A simulation developed from scratch using Pygame to simulate the movement of vehicles across a traffic intersection having traffic lights with a timer.</h4>
 

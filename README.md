@@ -18,7 +18,7 @@
 </div>
 
 -----------------------------------------
-### Description
+### Description 🌐
 
 * It contains a 4-way traffic intersection with traffic signals controlling the flow of traffic in each direction. 
 * Each signal has a timer on top of it which shows the time remaining for the signal to switch from green to yellow, yellow to red, or red to green. 
@@ -26,12 +26,12 @@
 * This simulation can be further used for data analysis or to visualize AI or ML applications. 
 
 ------------------------------------------
-### Prerequisites
+### Prerequisites 🛠️
 
 [Python 3.1+](https://www.python.org/downloads/)
 
 ------------------------------------------
-### Installation
+### Installation ⬇️
 
  * Step I: Clone the Repository
 ```sh
@@ -48,11 +48,11 @@
       # To run simulation
       $ python simulation.py
 ```
-### Author
+### Author 👤
 
 ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
 
-## Contact and Support
+### Contact and Support 📬
 For any issues or inquiries, feel free to contact us:
 
 - **Instagram:** [ashtoshhh](https://www.instagram.com/ashtoshhh/)

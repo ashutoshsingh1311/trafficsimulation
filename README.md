@@ -33,7 +33,7 @@
 ------------------------------------------
 ### Installation ⬇️
 
- * Step I: Clone the Repository
+ * Step I: Clone the given Repository
 ```sh
       $ git clone https://github.com/ashutoshsingh1311/trafficsimulation
 ```

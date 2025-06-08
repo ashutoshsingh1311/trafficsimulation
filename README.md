@@ -21,7 +21,7 @@
 ### Description 🌐
 
 * It contains a 4-way traffic intersection with traffic signals controlling the flow of traffic in each direction. 
-* Each signal has a timer on top of it which shows the time remaining for the signal to switch from green to yellow, yellow to red, or red to green. 
+* Each signal has a timer on top of it which shows the time remaining for the signal to switch from Green to Yellow, yellow to red, or red to green. 
 * Vehicles such as cars, bikes, buses, and trucks are generated, and their movement is controlled according to the signals and the vehicles around them. 
 * This simulation can be further used for data analysis or to visualize AI or ML applications. 
 
